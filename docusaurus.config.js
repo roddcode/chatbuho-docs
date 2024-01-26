@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentación Chat Buho',
+  title: 'Roddcode',
   tagline: 'Guia oficial completa y definitiva de Chat Buho',
   favicon: 'img/favicon.ico',
 
