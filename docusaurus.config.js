@@ -11,15 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://documentacion.chat.buho.la',
+  url: 'https://roddcode.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/documentacion/',
+  baseUrl: '/chatbuho-docs/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
-  projectName: 'documentacion',
-  deploymentBranch: 'gh-pages',
+  projectName: 'chatbuho-docs',
+  deploymentBranch: 'deployment',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
